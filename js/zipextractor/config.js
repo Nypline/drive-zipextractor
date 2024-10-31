@@ -14,8 +14,8 @@
 
 
 zipextractor.config.DRIVE_API_CONFIG_DATA = {
-    'clientId': '824911851129-6d64j0e08s86ih74l0lu386tqqfv71t9.apps.googleusercontent.com',
-    'appId': '824911851129',    
+    'clientId': '646187842916-cnlarvj8egd6tfni3cbuorvhm57rdg5l.apps.googleusercontent.com',
+    'appId': '1234',    
     'scopes': ['https://www.googleapis.com/auth/drive.file', 'https://www.googleapis.com/auth/drive.install'],
-    'apiKey': 'AIzaSyBW4IYnFZLyPFFKtZ2qWJYTlURyyE-Vt_4' 
+    'apiKey': 'AIzaSyDDpbQWI880x7y6dtyqxYWV300BGvwHt4Y' 
 };
